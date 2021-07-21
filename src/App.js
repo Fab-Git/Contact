@@ -14,7 +14,7 @@ function App() {
   });
   return (
     <div>
-      <p style={{ color: "red", fontSize: "300", fontWeight: "bold" }}>
+      <p style={{ color: "blue", fontSize: "300", fontWeight: "bold" }}>
         Our Products:
       </p>
       {prdComp}
